@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ine-pt",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Statistics Portugal (INE) JSON indicator MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ine-pt",
     "gatewaySlug": "ine-pt",
-    "sourceHash": "v1-2812dabcd569098091759fc51e5e307526335f19024065a3f2faaee2bfc2483c",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-83424866685f96a341439bd510505a427819c7f1a026c3f4814daeb399f34a41",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
